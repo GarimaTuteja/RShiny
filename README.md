@@ -13,7 +13,7 @@ The server is responsible for the logic of the app it’s the set of instruction
 Data is regarding housing price from the Dallas area that has 25 features (eg LOT SIZE,ZIP CODE,LATITUDE,LONGITUDE etc) and 5000 observations.
 Basic preprocessing for the data has been done such finding the missing values, imputing missing values, doing sanity checks such as if the houses exists with feature values given.Refer preprocessing.R 
 
-Web page that shows the app to the user is present in the UI.R and all the data manipulation and server program is under Server.R
+Web page that shows the app to the user is present in the ui.R and all the data manipulation and server program is under server.R
 
 For this App, there are 4 tabs
 
